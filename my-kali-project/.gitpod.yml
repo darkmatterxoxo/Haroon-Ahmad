@@ -1,0 +1,3 @@
+image: kalilinux/kali-linux-docker:latest
+ports:
+  - 80
